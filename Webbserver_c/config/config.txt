@@ -1,0 +1,10 @@
+Incoming port:
+8080
+Telnet port:
+8081
+Password:
+DKOMM4
+Web directory:
+Config\cat_site\
+Logfile:
+Config\Serverlog.txt
